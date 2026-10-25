@@ -1,4 +1,4 @@
-# 📊 Credit Risk Analytics Studio
+# 📊 Credit Risk Analytics 
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green.svg)
